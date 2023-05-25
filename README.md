@@ -1,4 +1,4 @@
-# Graduate School Admission Letters
+# Graduate Business School Admission Letters
 
 ![image](GraduateSchoolAdmissionLetter.jpg)
 
